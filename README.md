@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brain <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Essensity <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End developer (and beginner designer) from Venezuela.</h3>
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
